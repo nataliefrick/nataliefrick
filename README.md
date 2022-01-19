@@ -1,13 +1,9 @@
 ### Hi there 👋
+Welcome to my account! This account holds current and [soon] past projects.
 
-
-**nataliefrick/nataliefrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to my account! This account holds current and past my projects.
-
-Currently projects are for the Mid Sweden University web-development program, 
-*[Mittuniversitetet Webbutvecklings-programmet]*,
-
+Currently projects are for the  <br>
+Mid Sweden University web-development program, <br>
+*[Mittuniversitetet Webbutvecklings-programmet]*, 
 2021-2023.
 
 
